@@ -1,2 +1,2 @@
 # Unity-Project
-Mario-like game project.
+Developed a ReactJS-based interactive website with a TypeScript-driven architecture to ensure scalability and maintainability. Integrated a local server for efficient front-end and back-end communication, enabling seamless data flow. Designed a responsive UI using CSS/SCSS and implemented React Router for smooth client-side navigation. The project enhanced my understanding of modern front-end workflows, state management, and API integration.
